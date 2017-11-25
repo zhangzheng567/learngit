@@ -1,0 +1,21 @@
+[1mdiff --git a/liscence3.txt b/liscence3.txt[m
+[1mindex b856d8b..02b8724 100644[m
+[1m--- a/liscence3.txt[m
+[1m+++ b/liscence3.txt[m
+[36m@@ -1,2 +1,3 @@[m
+ fdsfd[m
+[31m-new array[m
+\ No newline at end of file[m
+[32m+[m[32mnew array[m
+[32m+[m[32mfdfdf[m
+\ No newline at end of file[m
+[1mdiff --git a/liscence4.txt b/liscence4.txt[m
+[1mindex 4374008..33732a6 100644[m
+[1m--- a/liscence4.txt[m
+[1m+++ b/liscence4.txt[m
+[36m@@ -1 +1,2 @@[m
+[31m-ssss[m
+\ No newline at end of file[m
+[32m+[m[32mssss[m
+[32m+[m[32mfdfd[m
+\ No newline at end of file[m
